@@ -6,4 +6,4 @@
 - [/] Read Data Visualisation Articles
 - [ ] Read Machine Learning Article
 - [ ] Start reading Introductory Statistics
-- [ ] Statistics Activity book 
+- [ ] Statistics Activity book
