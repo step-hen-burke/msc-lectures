@@ -2,8 +2,9 @@
 - [x] Set up Zotero ✅ 2023-09-20
 - [x] Populate bibliography ✅ 2023-09-20
 - [x] Set up git for notes ✅ 2023-09-21
-- [ ] Set up git for lecture material
+- [x] Set up git for lecture material ✅ 2023-09-21
 - [/] Read Data Visualisation Articles
 - [ ] Read Machine Learning Article
 - [ ] Start reading Introductory Statistics
 - [ ] Statistics Activity book
+- [x] Read python introduction chapters 1-2 ✅ 2023-09-22
