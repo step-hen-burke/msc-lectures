@@ -3,8 +3,8 @@
 - [x] Populate bibliography ✅ 2023-09-20
 - [x] Set up git for notes ✅ 2023-09-21
 - [x] Set up git for lecture material ✅ 2023-09-21
-- [/] Read Data Visualisation Articles
-- [ ] Read Machine Learning Article
+- [x] Read Data Visualisation Articles ✅ 2023-09-22
+- [x] Read Machine Learning Article ✅ 2023-09-23
 - [ ] Start reading Introductory Statistics
 - [ ] Statistics Activity book
 - [x] Read python introduction chapters 1-2 ✅ 2023-09-22
