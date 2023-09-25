@@ -6,5 +6,5 @@
 - [x] Read Data Visualisation Articles ✅ 2023-09-22
 - [x] Read Machine Learning Article ✅ 2023-09-23
 - [ ] Start reading Introductory Statistics
-- [ ] Statistics Activity book
+- [x] Statistics Activity book ✅ 2023-09-25
 - [x] Read python introduction chapters 1-2 ✅ 2023-09-22
