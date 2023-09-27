@@ -1,1 +1,4 @@
 .obsidian/
+*.ipynb_checkpoints/
+*.csv
+*Tutorial_*\.ipynb
